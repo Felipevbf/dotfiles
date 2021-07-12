@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = felipe@vonbrasche.com
+	name = Felipe von Brasche Figueiredo
